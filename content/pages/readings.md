@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: a84ba413-9e97-f8cf-2c9f-74b1576f9157
 ---
@@ -134,7 +137,7 @@ Elasticity: thermo-elastic analysis of layered materials; Stoney's formula for t
 {{< tdopen >}}
 Viscoelasticity: creep and relaxation tests; linear viscoelasticity; Boltzmann superposition principle
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 RWH chapter 6
 {{< tdclose >}}
 
@@ -155,7 +158,7 @@ Viscoelasticity: spring-dashpot models, time-temperature equivalence for amorpho
 {{< tdopen >}}
 Plasticity: plastic behaviour; data for yield strength; equations of plasticity: yield criteria
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 RWH chapter 2, MBM chapter 7
 {{< tdclose >}}
 
@@ -236,7 +239,7 @@ Quiz 1
 {{< tdopen >}}
 Micro to macro: conductivity
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 JDL chapters 1-2
 {{< tdclose >}}
 
@@ -305,7 +308,7 @@ Metals and insulators
 {{< tdopen >}}
 Semiconductors
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 JDL chapters 12, 13, 15, 16.1-16.4
 {{< tdclose >}}
 

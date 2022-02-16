@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/f88663b0a19bf267e742f93176c18e74_eps1.pdf
+file: /media/courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/f88663b0a19bf267e742f93176c18e74_eps1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: eps1.pdf
 uid: f88663b0-a19b-f267-e742-f93176c18e74
