@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 50ae2c6d-c15b-cafb-d733-ee89bfae03aa
 resourcetype: Document
 title: elasticity.pdf
 uid: ebe5b2b8-8cb7-5a01-b508-8a05865e4476
