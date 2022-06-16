@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains exams for both parts of this course, exam solutions,
+  and past exams with solutions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -12,33 +14,33 @@ This page contains exams for both parts of this course, as well as solutions and
 Mechanical Properties
 ---------------------
 
-2001 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.3 MB]({{< baseurl >}}/resources/m2001))
+2001 ({{% resource_link 1dedaed9-ee50-f279-2f6f-41ca7ad09904 "PDF - 4.3 MB" %}})
 
-2002 ([PDF - 5.6 MB]({{< baseurl >}}/resources/m2002))
+2002 ({{% resource_link 6a8c6b93-989b-f8f5-aa24-a7b7cd7945af "PDF - 5.6 MB" %}})
 
-2003 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.4 MB]({{< baseurl >}}/resources/m2003))
+2003 ({{% resource_link 3851f073-c6ab-72ff-22ab-006841b275bd "PDF - 3.4 MB" %}})
 
-2004 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5 MB]({{< baseurl >}}/resources/m2004))
+2004 ({{% resource_link 08f5c6a7-75f5-a074-6046-e796b256872c "PDF - 2.5 MB" %}})
 
-2005 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/m2005))
+2005 ({{% resource_link b600e2f8-8d09-a470-faf8-8e4685d52a53 "PDF - 1.1 MB" %}})
 
-2006 ([PDF]({{< baseurl >}}/resources/m2006))
+2006 ({{% resource_link 1208ef47-243c-8e6d-c2dd-cabb3888a0bc "PDF" %}})
 
-2007 ([PDF]({{< baseurl >}}/resources/m2007))
+2007 ({{% resource_link b242f740-d3d3-95c5-4c72-6d99fde9b4c1 "PDF" %}})
 
-Solution 2007 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m2007sol))
+Solution 2007 ({{% resource_link a08e7dfc-1379-296c-ca39-d496f07b593b "PDF" %}})
 
 Electrical, Optical, and Magnetic Properties
 --------------------------------------------
 
-2003 ([PDF]({{< baseurl >}}/resources/e2003))
+2003 ({{% resource_link 1a6e9488-2acc-8b79-c63f-ebc86db2d974 "PDF" %}})
 
-2004 ([PDF]({{< baseurl >}}/resources/e2004))
+2004 ({{% resource_link c114fe91-c65f-406e-4639-961ea039cd9a "PDF" %}})
 
-2005 ([PDF]({{< baseurl >}}/resources/e2005))
+2005 ({{% resource_link 15bfd2c8-a0c8-4634-9150-43ec124fa385 "PDF" %}})
 
-2006 ([PDF]({{< baseurl >}}/resources/e2006))
+2006 ({{% resource_link 5ac18875-73ed-1302-5a9e-7d003b7ef165 "PDF" %}})
 
-2007 ([PDF]({{< baseurl >}}/resources/e2007))
+2007 ({{% resource_link da1389f9-7b0d-4182-a7e1-990c272648a2 "PDF" %}})
 
-Solutions 2003-2006 ([PDF]({{< baseurl >}}/resources/e03_06sol))
+Solutions 2003-2006 ({{% resource_link 196d20a0-469c-96c3-8b2f-6010585a8bde "PDF" %}})
