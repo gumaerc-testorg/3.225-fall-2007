@@ -8,6 +8,7 @@ file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lecture_12.pdf
 uid: 66110ce0-b39d-da5b-5bb1-67a15a0a4a90
 ---
 Lecture notes on magnetic materials, the inductor, Maxwell, the microscopic source of magnetization, total energy change for bound electron in magnetic field, atoms with filled and partially filled shells, the effect of de-localized electrons on magnetic properties, and ferromagnetism.
-

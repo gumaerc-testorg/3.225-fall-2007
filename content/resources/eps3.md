@@ -5,6 +5,7 @@ file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: eps3.pdf
 uid: 1fa936ae-4a66-cbf4-49c0-c96376c6d1dc
 ---
 Problem set.
-

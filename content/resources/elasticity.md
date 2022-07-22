@@ -5,6 +5,7 @@ file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: elasticity.pdf
 uid: ebe5b2b8-8cb7-5a01-b508-8a05865e4476
 ---
 A list of topics from the mechanical unit on elasticity.
-

@@ -7,6 +7,7 @@ file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture_4.pdf
 uid: 028c4235-6171-40f9-b44c-51728098cc4f
 ---
 Lecture notes on consequence of electrons as waves on free electron model, the effect of temperature, Fermi-Dirac distribution, energy levels, and heat capacity (cv) of electrons in metal.
-

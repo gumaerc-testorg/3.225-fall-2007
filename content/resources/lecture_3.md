@@ -7,6 +7,7 @@ file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 2f6b82d2-4ba7-b65e-1fa2-65e8dec88989
 ---
 Lecture notes on wave-particle duality, Compton, Planck, photoelectric
 effect (Einstein), DeBroglie, and diffraction.
-

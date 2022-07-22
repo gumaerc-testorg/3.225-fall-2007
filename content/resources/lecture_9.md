@@ -6,6 +6,7 @@ file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_9.pdf
 uid: 92f5add9-c1ca-e7a7-f546-8bc408a448a4
 ---
 Lecture notes on p-n junctions, diodes, the qualitative effect of bias, heterojunctions, and quantum wells.
-

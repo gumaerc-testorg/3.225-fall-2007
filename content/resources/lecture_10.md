@@ -6,6 +6,7 @@ file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_10.pdf
 uid: 6f3f1de9-c2b9-9018-203b-e82ce9c4f413
 ---
 Lecture notes on dielectric and optical properties, the capacitor,  polarization, microscopic frequency response of materials, and polarizability.
-

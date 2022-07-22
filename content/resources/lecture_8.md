@@ -10,6 +10,7 @@ file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: 43fea384-070a-a4c2-f247-637091f10d55
 ---
 Lecture notes on extrinsic semiconductors, hydrogenic model, the power of doping, expected temperature behavior of doped material, contrasting semiconductor and metal
 conductivity, interpretation of t, other recombination pathways, and recombination and generation.
-
