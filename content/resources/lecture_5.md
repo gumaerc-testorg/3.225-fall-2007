@@ -4,6 +4,7 @@ description: Lecture notes on the Bloch model, band gaps, electrons in a periodi
   potential, diffraction picture of the origin of band gaps, nearly-free electron
   model, extended-zone scheme, reduced-zone scheme, and real band structures.
 file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/9fe92b8235be48cc42d75824033da847_lecture_5.pdf
+file_size: 132099
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
