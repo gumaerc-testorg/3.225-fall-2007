@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on electromagnetic waves in materials, the Hall effect,
   and complex representation of waves.
 file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/5e027de7290273530da1882cacc902ca_lecture_2.pdf
+file_size: 259225
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This file contains the information about metals and insulators, sem
   photon absorption, holes and electrons, thermal promotion of carriers, law of mass
   action for carrier promotion, intrinsic semiconductors, and extrinsic semiconductors.
 file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/3bfec0ef84475e74634685665d9eaee6_lecture_7.pdf
+file_size: 94637
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
