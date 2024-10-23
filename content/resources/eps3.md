@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/1fa936ae4a66cbf449c0c96376c6d1dc_eps3.pdf
+file: /ol-ocw-studio-app/courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/1fa936ae4a66cbf449c0c96376c6d1dc_eps3.pdf
 file_size: 85898
 file_type: application/pdf
 learning_resource_types:

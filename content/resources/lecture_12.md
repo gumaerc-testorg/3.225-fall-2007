@@ -4,7 +4,7 @@ description: Lecture notes on magnetic materials, the inductor, Maxwell, the mic
   source of magnetization, total energy change for bound electron in magnetic field,
   atoms with filled and partially filled shells, the effect of de-localized electrons
   on magnetic properties, and ferromagnetism.
-file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/66110ce0b39dda5b5bb167a15a0a4a90_lecture_12.pdf
+file: /ol-ocw-studio-app/courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/66110ce0b39dda5b5bb167a15a0a4a90_lecture_12.pdf
 file_size: 245384
 file_type: application/pdf
 learning_resource_types:

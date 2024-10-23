@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on orientational polarizability, dielectric loss, dispersion,
   and optical fiber properties, and ferroelectrics.
-file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/a09105ab9415a3d571d2705eadb62149_lecture_11.pdf
+file: /ol-ocw-studio-app/courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/a09105ab9415a3d571d2705eadb62149_lecture_11.pdf
 file_size: 548310
 file_type: application/pdf
 learning_resource_types:
