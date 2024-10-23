@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of topics from the mechanical unit on elasticity.
-file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/ebe5b2b88cb75a01b5088a05865e4476_elasticity.pdf
+file: /ol-ocw-studio-app/courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/ebe5b2b88cb75a01b5088a05865e4476_elasticity.pdf
 file_size: 41171
 file_type: application/pdf
 learning_resource_types:

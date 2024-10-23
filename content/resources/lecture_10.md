@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on dielectric and optical properties, the capacitor,  polarization,
   microscopic frequency response of materials, and polarizability.
-file: /courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/6f3f1de9c2b99018203be82ce9c4f413_lecture_10.pdf
+file: /ol-ocw-studio-app/courses/3-225-electronic-and-mechanical-properties-of-materials-fall-2007/6f3f1de9c2b99018203be82ce9c4f413_lecture_10.pdf
 file_size: 271860
 file_type: application/pdf
 learning_resource_types:
